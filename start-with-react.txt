@@ -1,0 +1,15 @@
+install node.js
+have visual studio
+react developer tool extension
+abrir consola alt+cmd+i (see react apps have profiler and components)
+extensiones de VS https://github.com/john-smilga/VS-CODE-SETUP/blob/master/1-ext.png
+npm init
+npm install bootstrap --save
+sudo npm install gatsby-cli -g
+npm install npx
+babel (can be used to hange ES versions) *
+See webpack *
+- npx create-react-app "nombre de la app"
+cd "nombre de la app"
+-npm start
+(in case someone erase package.json => run -npm install)
