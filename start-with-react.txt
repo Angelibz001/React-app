@@ -2,7 +2,7 @@ install node.js
 have visual studio
 react developer tool extension
 abrir consola alt+cmd+i (see react apps have profiler and components)
-extensiones de VS https://github.com/john-smilga/VS-CODE-SETUP/blob/master/1-ext.png
+extensiones de VS https://github.com/john-smilga/VS-CODE-SETUP/blob/master/1-ext.png *emmet
 npm init
 npm install bootstrap --save
 sudo npm install gatsby-cli -g
@@ -13,3 +13,15 @@ See webpack *
 cd "nombre de la app"
 -npm start
 (in case someone erase package.json => run -npm install)
+
+-Borrar los siguientes documentos
+
+
+
+Notas:
+Cuando se va a renderizar se necesita que la función sea en mayuscula
+
+---Usando los plugins---
+ES7 puedes ver todos los snippets los mas usados son: rfce
+
+
