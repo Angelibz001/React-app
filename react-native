@@ -1,0 +1,26 @@
+sudo npm i -g expo-cli
+install expo client (on phone)
+extension (react native tools) material icon , format on save on
+expo init (name) //code .
+
+//#assets (van todas las imagenes)
+//#app.js (react basic component
+
+cd (name)
+npm start 
+
+install xcode on mac
+see on browser, scan qr code
+
+Vscode->debugger-> Attach to packager-> se despliega un nuevo documento launch.json (se pueden agregar configuraciones)
+* to use debug place the red circle on th vscode -> debug console -> play button -> view -> debug console
+*react-native.packager -> puerto que se este usando 
+
+#how to publish 
+expo publish
+
+#see components
+https://reactnative.dev/docs/getting-started
+
+
+
