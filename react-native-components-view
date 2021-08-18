@@ -1,0 +1,42 @@
+https://reactnative.dev/
+
+check components then props
+
+
+import { StyleSheet, text, View, SafeAreaView}
+
+-View
+
+    <SafeAreaView style={styles.container}>
+      <Text>Open up App.js </Text>
+      <StatusBar style="auto" />
+    </SafeAreaView>
+    
+    
+ -Text 
+ 
+ import { StatusBar } from "expo-status-bar";
+import React from "react";
+import { StyleSheet, Text, View, SafeAreaView } from "react-native";
+
+export default function App() {
+  console.log("app executed");
+  const handlepress = () => console.log("text press");
+  return (
+    <SafeAreaView style={styles.container}>
+      <Text numberOfLines={1} onPress={handlepress}>
+        Oen up App.js adkskdhajk dshjkahsdjk ahsdkjh akjsdh ajksdj
+      </Text>
+      <StatusBar style="auto" />
+    </SafeAreaView>
+  );
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: "dodgerblue"
+  }
+});
+ 
+ 
