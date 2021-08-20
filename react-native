@@ -1,7 +1,13 @@
+sudo apt update
+https://phoenixnap.com/kb/update-node-js-version (cambiar version)
+
+
+
 sudo npm i -g expo-cli
 install expo client (on phone)
 extension (react native tools) material icon , format on save on
 expo init (name) //code .
+-blanck
 
 //#assets (van todas las imagenes)
 //#app.js (react basic component
